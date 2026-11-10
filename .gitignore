@@ -1,0 +1,13 @@
+# Disk images and VM files
+*.iso
+*.vhd
+*.vhdx
+*.avhdx
+
+# Lab credentials and captures - never commit
+identifiants*.txt
+*.env
+captures/
+
+.vscode/
+Thumbs.db
